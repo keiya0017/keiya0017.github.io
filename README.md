@@ -7,7 +7,6 @@ HTML5, CSS3
 ・tableタグで自分のスキルをわかりやすくまとめました。
 
 
-
 ページ内ジャンプ後の問題を解決
 HTML5)
 <h1 class="section-title" id="profile">PROFILE</h1>
